@@ -1,0 +1,7 @@
+C:\Users\shoum\Documents\GitHub\req66.github.io\Builds\0\BlazorPortfolio.exe
+C:\Users\shoum\Documents\GitHub\req66.github.io\Builds\0\appsettings.Development.json
+C:\Users\shoum\Documents\GitHub\req66.github.io\Builds\0\appsettings.json
+C:\Users\shoum\Documents\GitHub\req66.github.io\Builds\0\BlazorPortfolio.dll
+C:\Users\shoum\Documents\GitHub\req66.github.io\Builds\0\BlazorPortfolio.deps.json
+C:\Users\shoum\Documents\GitHub\req66.github.io\Builds\0\BlazorPortfolio.runtimeconfig.json
+C:\Users\shoum\Documents\GitHub\req66.github.io\Builds\0\BlazorPortfolio.pdb
