@@ -1,0 +1,1 @@
+C:\Users\shoum\Documents\GitHub\req66.github.io\BlazorApp\bin\Release\net8.0\publish\web.config
