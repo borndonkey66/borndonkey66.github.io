@@ -160,3 +160,8 @@ main[b-kc989pta5g] {
         overflow-y: auto;
     }
 }
+/* /Pages/Todo.razor.rz.scp.css */
+.todoListtrue[b-dkg5svi7ou]
+{
+    text-decoration: line-through;
+}

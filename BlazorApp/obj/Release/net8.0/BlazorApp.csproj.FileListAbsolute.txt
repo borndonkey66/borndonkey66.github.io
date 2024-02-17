@@ -1030,3 +1030,4 @@ C:\Users\shoum\Documents\GitHub\req66.github.io\BlazorApp\obj\Release\net8.0\Bla
 C:\Users\shoum\Documents\GitHub\req66.github.io\BlazorApp\obj\Release\net8.0\refint\BlazorApp.dll
 C:\Users\shoum\Documents\GitHub\req66.github.io\BlazorApp\obj\Release\net8.0\BlazorApp.pdb
 C:\Users\shoum\Documents\GitHub\req66.github.io\BlazorApp\obj\Release\net8.0\ref\BlazorApp.dll
+C:\Users\shoum\Documents\GitHub\req66.github.io\BlazorApp\obj\Release\net8.0\scopedcss\Pages\Todo.razor.rz.scp.css
