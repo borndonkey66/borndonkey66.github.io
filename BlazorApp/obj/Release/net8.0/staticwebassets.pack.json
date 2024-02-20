@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets\\BlazorApp.styles.css"
     },
     {
+      "Id": "C:\\Users\\shoum\\Documents\\GitHub\\req66.github.io\\BlazorApp\\wwwroot\\ProfilePicture.png",
+      "PackagePath": "staticwebassets\\ProfilePicture.png"
+    },
+    {
+      "Id": "C:\\Users\\shoum\\Documents\\GitHub\\req66.github.io\\BlazorApp\\wwwroot\\ProfilePictureRecolored.png",
+      "PackagePath": "staticwebassets\\ProfilePictureRecolored.png"
+    },
+    {
+      "Id": "C:\\Users\\shoum\\Documents\\GitHub\\req66.github.io\\BlazorApp\\wwwroot\\ProfilePictureRecolored1.png",
+      "PackagePath": "staticwebassets\\ProfilePictureRecolored1.png"
+    },
+    {
+      "Id": "C:\\Users\\shoum\\Documents\\GitHub\\req66.github.io\\BlazorApp\\wwwroot\\ProfilePictureRecolored2.png",
+      "PackagePath": "staticwebassets\\ProfilePictureRecolored2.png"
+    },
+    {
       "Id": "C:\\Users\\shoum\\Documents\\GitHub\\req66.github.io\\BlazorApp\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
@@ -23,6 +39,10 @@
     {
       "Id": "C:\\Users\\shoum\\Documents\\GitHub\\req66.github.io\\BlazorApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shoum\\Documents\\GitHub\\req66.github.io\\BlazorApp\\wwwroot\\css\\fonts\\BOMBARD_.otf",
+      "PackagePath": "staticwebassets\\css\\fonts\\BOMBARD_.otf"
     },
     {
       "Id": "C:\\Users\\shoum\\Documents\\GitHub\\req66.github.io\\BlazorApp\\wwwroot\\favicon.png",

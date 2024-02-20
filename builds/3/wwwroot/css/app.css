@@ -1,5 +1,11 @@
 html, body {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: Bombardier, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: #dad2d8;
+}
+
+@font-face {
+    font-family: Bombardier;
+    src: url(fonts/BOMBARD_.otf);
 }
 
 h1:focus {
@@ -7,17 +13,37 @@ h1:focus {
 }
 
 a, .btn-link {
-    color: #0071c1;
+    color: #143642;
 }
 
 .btn-primary {
-    color: #fff;
-    background-color: #1b6ec2;
-    border-color: #1861ac;
+    color: #143642;
+    background-color: #ec9a29;
+    border-color: #ec9a29;
 }
 
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+.btn-secondary
+{
+    background-color: #E18C14;
+}
+
+.btn-hover-color:hover 
+{
+    color: #143642;
+    background-color: #E18C14;
+    border-color: #E18C14;
+}
+
+.btn-check:active+.btn-primary,.btn-check:checked+.btn-primary,.btn-primary.active,.btn-primary:active,.show>.btn-primary.dropdown-toggle
+{
+    border-color: #E18C14;
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus 
+{
+    color: #dad2d8;
+    box-shadow: 0 0 0 0.1rem #E18C14, 0 0 0 0.25rem #E18C14;
+    background-color: #E18C14;
 }
 
 .content {
@@ -75,14 +101,14 @@ a, .btn-link {
 
     .loading-progress circle {
         fill: none;
-        stroke: #e0e0e0;
+        stroke: #dad2d8;
         stroke-width: 0.6rem;
         transform-origin: 50% 50%;
         transform: rotate(-90deg);
     }
 
         .loading-progress circle:last-child {
-            stroke: #1b6ec2;
+            stroke: #0f8b8d;
             stroke-dasharray: calc(3.141 * var(--blazor-load-percentage, 0%) * 0.8), 500%;
             transition: stroke-dasharray 0.05s ease-in-out;
         }

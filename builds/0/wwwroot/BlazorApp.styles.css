@@ -10,7 +10,7 @@ main[b-kc989pta5g] {
 }
 
 .sidebar[b-kc989pta5g] {
-    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+    background-image: linear-gradient(180deg, rgb(0, 229, 236) 0%, #00ff9d 70%);
 }
 
 .top-row[b-kc989pta5g] {
@@ -160,3 +160,4 @@ main[b-kc989pta5g] {
         overflow-y: auto;
     }
 }
+/* /Pages/Todo.razor.rz.scp.css */
