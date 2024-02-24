@@ -1,0 +1,24 @@
+/* /Layout/Footer.razor.rz.scp.css */
+.body[b-uk370ndkeg]
+{
+    background-color: #a8201a;
+}
+/* /Layout/MainLayout.razor.rz.scp.css */
+/* /Layout/NavMenu.razor.rz.scp.css */
+.navbar[b-iqpjrornlq]
+{
+    background-color: #0f8b8d;
+}
+.logo[b-iqpjrornlq]
+{
+    size: 80px 80px;
+}
+li[b-iqpjrornlq]
+{
+    color: #143642;
+}
+/*.navbar-nav .nav-link {
+    color: #143642;
+}*/
+/* /Layout/NavMenu1.razor.rz.scp.css */
+/* /Pages/Todo.razor.rz.scp.css */

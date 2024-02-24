@@ -1029,6 +1029,5 @@ C:\Users\shoum\Documents\GitHub\req66.github.io\BlazorApp\obj\Release\net8.0\ref
 C:\Users\shoum\Documents\GitHub\req66.github.io\BlazorApp\obj\Release\net8.0\BlazorApp.pdb
 C:\Users\shoum\Documents\GitHub\req66.github.io\BlazorApp\obj\Release\net8.0\ref\BlazorApp.dll
 C:\Users\shoum\Documents\GitHub\req66.github.io\BlazorApp\obj\Release\net8.0\scopedcss\Pages\Todo.razor.rz.scp.css
-C:\Users\shoum\Documents\GitHub\req66.github.io\BlazorApp\obj\Release\net8.0\scopedcss\Layout\NavMenu1.razor.rz.scp.css
 C:\Users\shoum\Documents\GitHub\req66.github.io\BlazorApp\obj\Release\net8.0\scopedcss\Layout\NavMenu.razor.rz.scp.css
 C:\Users\shoum\Documents\GitHub\req66.github.io\BlazorApp\obj\Release\net8.0\scopedcss\Layout\MainLayout.razor.rz.scp.css
